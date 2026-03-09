@@ -16,3 +16,18 @@ This project is a simple authentication system built using **React (Frontend)** 
 ## Login Credentials
 **Username:** admin  
 **Password:** admin123
+
+## Install backend dependencies
+ cd backend
+ npm install
+## Install frontend dependencies
+ cd ../frontend
+ npm install
+## Run the application
+ Start backend:
+ cd backend
+ node server.js
+
+ Start frontend:
+ cd frontend
+ npm start
